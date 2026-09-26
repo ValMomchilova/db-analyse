@@ -1,0 +1,39 @@
+📘 Homework Assignment: Excel Extension & Portfolio Analysis
+🎯 Objective
+
+This assignment focuses on extending an existing Excel-based dataset and understanding how changes in data structure affect the Python code.
+We will also perform a portfolio-level analysis using the updated data.
+
+🧩 Task 1: Extend the Dataset
+
+Simulate the addition of a new month in the existing Excel file:
+
+Add a new sheet named April_2026
+Populate the sheet with dummy (synthetic) data, following the same structure as the existing monthly sheets
+
+
+💭 Task 2: Code Impact Analysis
+
+Question:
+What changes (if any) are required in the existing Python code when a new sheet is added to the Excel file?
+
+Explain the answer clearly
+Consider scenarios such as:
+Hardcoded sheet names vs. dynamic discovery
+Scalability of the solution
+Maintainability of the code
+
+
+📊 Task 3: Portfolio-Level Calculation
+
+Calculate the total budget overrun for the entire portfolio.
+
+The calculation should be done at the portfolio level, not per project or per month
+Aggregate all relevant data across all months (including April 2026)
+Clearly explain the approach and assumptions
+
+
+✅ Deliverables
+Updated Excel file (including April_2026)
+Python code (if modified)
+Short written explanation (answers to Task 2 and Task 3)
