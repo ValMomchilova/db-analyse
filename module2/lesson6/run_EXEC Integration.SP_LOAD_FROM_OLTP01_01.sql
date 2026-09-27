@@ -1,0 +1,1 @@
+EXEC Integration.SP_LOAD_FROM_OLTP
